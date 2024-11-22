@@ -1,0 +1,73 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Enable "Build artifacts" folder in the workspace.
+!Build/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Microsoft Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+
+# Web
+*.publishsettings
+*.publish.xml
+AppPackages/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Local History
+.localhistory/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Visual Studio temporary files
+# User-specific files
+*.rsuser
+*.vcxproj.user
+
+# Uncomment if using JetBrains Rider
+# .idea/
+# *.sln.iml
+
